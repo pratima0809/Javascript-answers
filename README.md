@@ -19,3 +19,6 @@
 	18.	The keyword used to stop the execution of a loop is break.
 	19.	A function can return a value using the return keyword.
 	20.	The typeof operator returns the type of a variable.
+
+     
+<img width="852" alt="Screenshot 2025-05-30 at 12 15 03 PM" src="https://github.com/user-attachments/assets/f012e550-fe65-4be6-bb2c-eb14c475d9af" />
